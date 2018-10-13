@@ -1,0 +1,40 @@
+* {
+  font-size: medium;
+}
+
+#header {
+  width: 100%;
+  height: 200px;
+  background: gray;
+  color: white;
+  background-image: url('img/header.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: table;
+}
+
+#header h1 {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 2.5em;
+  font-weight: normal;
+}
+
+h1, h2 {
+  padding-left: 1em;
+  font-family: 'Noto Serif', serif;
+}
+
+h2 {
+  border-style: solid;
+  border-color: gray;
+  border-width: 0px 0px 1px 5px;
+  font-family: 'Noto Serif', serif;
+  font-size: 1.5em;
+}
+
+
+.contents {
+  padding-left: 1em;
+}
