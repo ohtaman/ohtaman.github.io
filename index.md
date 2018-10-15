@@ -3,7 +3,7 @@ layout: default
 title: Mitsuhisa Ota
 ---
 
-## Who Am I?
+## Who am I?
 
 ![face](assets/img/logo.jpg){: .face}
 - Machine Learning Engineer @ [BrainPad Inc.](https://www.brainpad.co.jp/)
