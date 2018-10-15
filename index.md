@@ -22,7 +22,7 @@ title: Mitsuhisa Ota
 - [TensorFlow入門 基本的な使い方と応用事例](https://docs.google.com/presentation/d/e/2PACX-1vRZEQVh0KHDEedwRcnlWsZK0C72yq7dA11WKyYCw6UffBShIMADrhJ0_tKfH_Y9SAMH1enljA_5p2IC/pub?start=false&loop=false&delayms=3000)
   - [APPS JAPAN](https://www.f2ff.jp/apps-japan/2018/)
   - 2018/06/15
-- [ReCap of TensorFlow Dev Summit 2018](https://docs.google.com/presentation/d/e/2PACX-1vSMGl0DXxtS6wtykuNq-A6P_Ew6NLrY6xiK4YCoFdiMJDzqEMFplkrLaaMT-VIh-ulGE_Oc9wY-ahlm/pub?start=false&loop=false&delayms=3000)
+- [ReCap of TensorFlow Dev Summit 2018](https://docs.google.com/presentation/d/e/2PACX-1vSMGl0DXxtS6wtykuNq-A6P_Ew6NLrY6xiK4YCoFdiMJDzqEMFplkrLaaMT-VIh-ulGE_Oc9wY-ahlm/pub?start=false&loop=false&delayms=3000)
   - [Recap of TensorFlow Dev Summit 2018](https://gdgkyoto.connpass.com/event/83884/) @ Kyoto
   - 2018/04/14
 - [Google I/O Extended Okinawa 2018](https://okipug.connpass.com/event/86509/) (2018/06/02)
