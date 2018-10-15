@@ -6,12 +6,27 @@ title: Mitsuhisa Ota
 ## Who am I?
 
 ![face](assets/img/logo.jpg){: .face}
+
 - Machine Learning Engineer @ [BrainPad Inc.](https://www.brainpad.co.jp/)
 - Organizer of [TensorFlow User Group Tokyo.](https://tfug.jp)
 - [Google Developer Expert (Machine Learning).](https://developers.google.com/experts/people/mitsuhisa-ota)
 - The steering committee member of [MLSE](https://sites.google.com/view/sig-mlse), a study group in [JSSST.](http://www.jssst.or.jp/)
 - The ommittee member of [Japan DeepLearning Association.](https://www.jdla.org/)
-{: #whoami}
+{: .whoami-contents}
+
+## Talks
+
+- [Dopamine](https://docs.google.com/presentation/d/e/2PACX-1vTqTs68hKJSLLqmvPmjxNRt_xfPpQdegBKsZ4enxHZRhs1URk5tMW8y2_o8-mvlT9nhOZhDgNu0yIGP/pub?start=false&loop=false&delayms=3000)
+  - [TensorFlow User Group #8](https://tfug-tokyo.connpass.com/event/97836/)
+  - 2018/09/14
+- [TensorFlow入門 基本的な使い方と応用事例](https://docs.google.com/presentation/d/e/2PACX-1vRZEQVh0KHDEedwRcnlWsZK0C72yq7dA11WKyYCw6UffBShIMADrhJ0_tKfH_Y9SAMH1enljA_5p2IC/pub?start=false&loop=false&delayms=3000)
+  - [APPS JAPAN](https://www.f2ff.jp/apps-japan/2018/)
+  - 2018/06/15
+- [ReCap of TensorFlow Dev Summit 2018](https://docs.google.com/presentation/d/e/2PACX-1vSMGl0DXxtS6wtykuNq-A6P_Ew6NLrY6xiK4YCoFdiMJDzqEMFplkrLaaMT-VIh-ulGE_Oc9wY-ahlm/pub?start=false&loop=false&delayms=3000)
+  - [Recap of TensorFlow Dev Summit 2018](https://gdgkyoto.connpass.com/event/83884/) @ Kyoto
+  - 2018/04/14
+- [Google I/O Extended Okinawa 2018](https://okipug.connpass.com/event/86509/) (2018/06/02)
+{: .talks-contents}
 
 ## Publications
 
