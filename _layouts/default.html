@@ -5,6 +5,9 @@
   <link href="https://fonts.googleapis.com/css?family=Noto+Serif:400i" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="shortcut icon" href="/assets/img/favicon.ico">
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.js"></script>
+  <script src="/assets/js/script.js"></script>
   <title>{{ page.title }}</title>
 </head>
 <body>
@@ -15,4 +18,15 @@
     {{ content }}
   </div>
 </body>
+<script>
+$(document).ready(() => {
+  getEvents((data) => {
+    $('<ul class="events-contents">').insertAfter('#events').append(() => {
+      return data.map((entry) => {
+        return `<li><a href="${entry.url}">${entry.title}</a><span>${entry.date}</span></li>`
+      });
+    })
+  })
+})
+</script>
 </html>
