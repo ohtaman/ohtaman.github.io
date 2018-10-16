@@ -42,7 +42,6 @@ h2 {
 
 .face {
   margin-left: 2em;
-  float: left;
   width: 150px;
   height: 150px;
   border-radius: 50%;
@@ -50,8 +49,19 @@ h2 {
   box-shadow: 0px 1px 4px;
 }
 
-.whoami-contents {
-  display: inline-block;
+@media screen and (orientation: landscape) {
+  .face {
+    float: left;
+  }
+  .whoami-contents {
+    display: inline-block;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  * {
+    font-size: small;
+  }
 }
 
 .talks-contents > li > ul {
@@ -61,6 +71,7 @@ h2 {
 
 .talks-contents > li > ul > li {
   display: inline-block;
+  font-size: medium;
 }
 
 .talks-contents > li > ul * {

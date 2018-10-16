@@ -36,6 +36,7 @@ title: Mitsuhisa Ota
 - [実践 Deep Learning ―PythonとTensorFlowで学ぶ次世代の機械学習アルゴリズム](https://www.amazon.co.jp/dp/4873118328)(Supervisor of translation)
 - [コマンドラインではじめるデータサイエンス ―分析プロセスを自在に進めるテクニック](https://www.amazon.co.jp/dp/4873117410)(Supervisor of translation)
 - [実践 機械学習：レコメンデーションにおけるイノベーション](https://community.mapr.jp/pdf-practical-machine-learning.html)(Supervisor of translation)
+{: .publication-contents}
 
 ## Events
 {: #events}
