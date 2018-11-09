@@ -31,9 +31,9 @@ title: Mitsuhisa Ota
 - [TensorFlow 導入 & 活用事例]()
   - [TensorFlow User Group 鹿児島 #1（キックオフ）](https://tfug-kagoshima.connpass.com/event/87992/)
   - 2018/06/09
-  - [機械学習をはじめよう](https://docs.google.com/presentation/d/e/2PACX-1vQfv2VjMln4MM6SMvqQfYwYZVAEHx0XgeRqKCdk89BwlmjW91gI4TH5lqMUVGFubyKq69QfH8_nnug1/pub?start=false&loop=false&delayms=3000)
-    - [Google I/O Extended Okinawa 2018](https://okipug.connpass.com/event/86509/)
-    - 2018/06/02
+- [機械学習をはじめよう](https://docs.google.com/presentation/d/e/2PACX-1vQfv2VjMln4MM6SMvqQfYwYZVAEHx0XgeRqKCdk89BwlmjW91gI4TH5lqMUVGFubyKq69QfH8_nnug1/pub?start=false&loop=false&delayms=3000)
+  - [Google I/O Extended Okinawa 2018](https://okipug.connpass.com/event/86509/)
+  - 2018/06/02
 - [機械学習と量子コンピューター](https://docs.google.com/presentation/d/e/2PACX-1vQi0aTmmQEYWAjmE0x9uXPvPqvlk31-2ZUM-qJxbHP_1B_0P__-97vRkO7iTgjF2zN67WKpq5TYqSQs/pub?start=false&loop=false&delayms=3000)
   - [第24回 Machine Learning 15minutes!](https://machine-learning15minutes.connpass.com/event/85393/)
   - 2018/05/26
