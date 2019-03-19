@@ -63,7 +63,6 @@ title: Mitsuhisa Ota
 {: #events}
 
 ## Articles
-
 {: #qiita}
 
 ## Social Accounts
