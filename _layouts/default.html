@@ -27,6 +27,13 @@ $(document).ready(() => {
       });
     })
   })
+  getQiita((data) => {
+    $('<ul class="qiita-contents">').insertAfter('#qiita').append(() => {
+      return data.map((entry) => {
+        return `<li><a href="${entry.url}">${entry.title}</a><span>${entry.date}</span></li>`
+      });
+    })
+  })
 })
 </script>
 </html>
