@@ -19,3 +19,13 @@ const getEvents = (callback, offset, limit) => {
     })).sort((a, b) => a.date < b.date))
   }, 'connpass_owner', offset, limit);
 }
+
+const getQiita = (callback, offset, limit) => {
+  getData((data) => {
+    callback(data.map((entry) => ({
+      title: entry['Title'],
+      date: moment(entry['Created At']).format('YYYY/MM/DD'),
+      url: entry['Url']
+    })).sort((a, b) => a.date < b.date))
+  }, 'qiita', offset, limit);
+}
