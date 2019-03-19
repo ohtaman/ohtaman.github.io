@@ -16,6 +16,12 @@ title: Mitsuhisa Ota
 
 ## Talks
 
+- [機械学習システム アーキテクチャ アラカルト](https://www.slideshare.net/BrainPad/ss-131876455)
+  - [デブサミ2019](https://event.shoeisha.jp/devsumi/20190214/)
+  - 2019/02/15
+- [TensorFlowのマーケティング活用事例](https://docs.google.com/presentation/d/e/2PACX-1vStBfkGdgAnJN6y-01e5QxRodOHQE_5CAu2jCkGw1n0S12IPxo_hyJB1VwAxkg_Z3vkA8Kf4VY_ekR1/pub?start=false&loop=false&delayms=3000)
+  - [TFUG Okinawa vol.2](https://tfug-okinawa.connpass.com/event/109390/)
+  - 2019/01/12
 - [Seldon触ってみた](https://docs.google.com/presentation/d/e/2PACX-1vQurY8sa3Tx6kdI0noE_IvhXDX8ukpNAMTL_vA_1lldZTkwygxEYhaMgvLlY5iuNLqW6jDUZ4rMB6jD/pub?start=false&loop=false&delayms=3000)
   - [Kubeflow meetup #1](https://daft.connpass.com/event/100292/)
   - 2018/09/26
