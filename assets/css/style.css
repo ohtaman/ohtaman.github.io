@@ -49,11 +49,18 @@ h2 {
   box-shadow: 0px 1px 4px;
 }
 
+.social-accounts-contents {
+  background-color: whitesmoke; 
+}
+
 @media screen and (orientation: landscape) {
   .face {
     float: left;
   }
   .whoami-contents {
+    display: inline-block;
+  }
+  .social-accounts-contents {
     display: inline-block;
   }
 }
@@ -63,7 +70,6 @@ h2 {
     font-size: small;
   }
 }
-
 .talks-contents > li > ul {
   display: inline-block;
   padding-left: 1rem;
