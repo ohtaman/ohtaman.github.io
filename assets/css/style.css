@@ -49,10 +49,6 @@ h2 {
   box-shadow: 0px 1px 4px;
 }
 
-.social-accounts-contents {
-  background-color: whitesmoke; 
-}
-
 @media screen and (orientation: landscape) {
   .face {
     float: left;
@@ -60,10 +56,7 @@ h2 {
   .whoami-contents {
     display: inline-block;
   }
-  .social-accounts-contents {
-    display: inline-block;
-  }
-}
+}
 
 @media screen and (max-width: 750px) {
   * {
