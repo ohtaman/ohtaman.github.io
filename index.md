@@ -14,7 +14,6 @@ title: Mitsuhisa Ota
 - A member of the committee of [Japan DeepLearning Association.](https://www.jdla.org/)
 {: .whoami-contents}
 
-### Social Accounts
 - [Facebook](https://www.facebook.com/ohtaman)
 - [GitHub](https://github.com/ohtaman)
 - [Twitter](https://twitter.com/ohtaman)
