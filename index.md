@@ -15,10 +15,10 @@ title: Mitsuhisa Ota
 {: .whoami-contents}
 
 ### Social Accounts
-
 - [Facebook](https://www.facebook.com/ohtaman)
 - [GitHub](https://github.com/ohtaman)
 - [Twitter](https://twitter.com/ohtaman)
+{: .social-accounts-contents}
 
 ## Talks
 
