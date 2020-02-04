@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 title: Mitsuhisa Ota
 ---
 
@@ -12,14 +12,12 @@ title: Mitsuhisa Ota
 - [Google Developers Expert (Machine Learning).](https://developers.google.com/experts/people/mitsuhisa-ota)
 - A member of the steering committee of [MLSE](https://sites.google.com/view/sig-mlse), a study group in [JSSST.](http://www.jssst.or.jp/)
 - A member of the committee of [Japan DeepLearning Association.](https://www.jdla.org/)
-{: .whoami-contents}
 
 ## Social Accounts
 
 - [Facebook](https://www.facebook.com/ohtaman)
 - [GitHub](https://github.com/ohtaman)
 - [Twitter](https://twitter.com/ohtaman)
-{: .social-accounts-contents}
 
 ## Talks
 
@@ -53,7 +51,6 @@ title: Mitsuhisa Ota
 - [ReCap of TensorFlow Dev Summit 2018](https://docs.google.com/presentation/d/e/2PACX-1vSMGl0DXxtS6wtykuNq-A6P_Ew6NLrY6xiK4YCoFdiMJDzqEMFplkrLaaMT-VIh-ulGE_Oc9wY-ahlm/pub?start=false&loop=false&delayms=3000)
   - [Recap of TensorFlow Dev Summit 2018](https://gdgkyoto.connpass.com/event/83884/) @ Kyoto
   - 2018/04/14
-{: .talks-contents}
 
 ## Publications
 
@@ -64,7 +61,6 @@ title: Mitsuhisa Ota
 - [実践 Deep Learning ―PythonとTensorFlowで学ぶ次世代の機械学習アルゴリズム](https://www.amazon.co.jp/dp/4873118328)(Supervisor of translation)
 - [コマンドラインではじめるデータサイエンス ―分析プロセスを自在に進めるテクニック](https://www.amazon.co.jp/dp/4873117410)(Supervisor of translation)
 - [実践 機械学習：レコメンデーションにおけるイノベーション](https://community.mapr.jp/pdf-practical-machine-learning.html)(Supervisor of translation)
-{: .publication-contents}
 
 ## Events
 {: #events}
