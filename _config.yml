@@ -1,1 +1,3 @@
 exclude: ["vendor", "Gemfile", "Gemfile.lock"]
+timezone: Asia/Tokyo
+encoding: UTF-8

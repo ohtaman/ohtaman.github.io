@@ -1,7 +1,10 @@
 ---
-layout: default
-title: Mitsuhisa Ota
+layout: index
+title: Mitsuhisa Ohta
+author: ohtaman
 ---
+
+# Mitsuhisa Ohta
 
 ## Who am I?
 
@@ -19,9 +22,9 @@ title: Mitsuhisa Ota
 - [Facebook](https://www.facebook.com/ohtaman)
 - [GitHub](https://github.com/ohtaman)
 - [Twitter](https://twitter.com/ohtaman)
-{: .social-accounts-contents}
+{: .social-accounts .contents}
 
-## Talks
+## [Talks](talks.html)
 
 - [機械学習システム アーキテクチャ アラカルト](https://www.slideshare.net/BrainPad/ss-131876455)
   - [デブサミ2019](https://event.shoeisha.jp/devsumi/20190214/)
@@ -53,7 +56,7 @@ title: Mitsuhisa Ota
 - [ReCap of TensorFlow Dev Summit 2018](https://docs.google.com/presentation/d/e/2PACX-1vSMGl0DXxtS6wtykuNq-A6P_Ew6NLrY6xiK4YCoFdiMJDzqEMFplkrLaaMT-VIh-ulGE_Oc9wY-ahlm/pub?start=false&loop=false&delayms=3000)
   - [Recap of TensorFlow Dev Summit 2018](https://gdgkyoto.connpass.com/event/83884/) @ Kyoto
   - 2018/04/14
-{: .talks-contents}
+{: .talks .contents}
 
 ## Publications
 
@@ -64,10 +67,11 @@ title: Mitsuhisa Ota
 - [実践 Deep Learning ―PythonとTensorFlowで学ぶ次世代の機械学習アルゴリズム](https://www.amazon.co.jp/dp/4873118328)(Supervisor of translation)
 - [コマンドラインではじめるデータサイエンス ―分析プロセスを自在に進めるテクニック](https://www.amazon.co.jp/dp/4873117410)(Supervisor of translation)
 - [実践 機械学習：レコメンデーションにおけるイノベーション](https://community.mapr.jp/pdf-practical-machine-learning.html)(Supervisor of translation)
-{: .publication-contents}
+{: .publication .contents}
 
 ## Events
-{: #events}
 
 ## Articles
-{: #qiita}
+
+<ul></ul>
+{: #qiita .qiita .contents}
