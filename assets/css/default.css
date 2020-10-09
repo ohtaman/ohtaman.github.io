@@ -1,0 +1,27 @@
+body {
+  font-size: medium;
+  color: #555;
+  margin: 0px;
+}
+
+a {
+  color: #555;
+}
+
+h1, h2 {
+  padding-left: 1em;
+  font-family: 'Noto Serif', serif;
+}
+
+h2 {
+  margin: 1em;
+  border-style: solid;
+  border-color: lightgray;
+  border-width: 0px 0px 1px 5px;
+  font-family: 'Noto Serif', serif;
+  font-size: 1.5em;
+}
+
+p, ul {
+  margin-left: 1em;
+}
