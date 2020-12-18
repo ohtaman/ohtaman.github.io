@@ -8,6 +8,21 @@
         <link rel="shortcut icon" href="/assets/img/favicon.ico">
         <script src="/assets/js/script.js"></script>
         <title>{{ page.title }}</title>
+        <script>
+            MathJax = {
+              loader: {load: ['[tex]/physics']},
+              tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                packages: {'[+]': ['physics']}
+              },
+              chtml: {
+                matchFontHeight: false
+              }
+            };
+            </script>
+            <script id="MathJax-script" async
+              src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+            </script>
     </head>
     <body>
         {{ content }}
