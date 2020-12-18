@@ -14,7 +14,6 @@ h1, h2 {
 }
 
 h2 {
-  margin: 1em;
   border-style: solid;
   border-color: lightgray;
   border-width: 0px 0px 1px 5px;
