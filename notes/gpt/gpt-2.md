@@ -49,9 +49,7 @@ $$
 十分に大きなモデル（とデータ）を使えば、質問応答以外の分野でも同様に後続語予測を使えるのではないか、そうであれば、それは教師なしのマルチタスク学習ということになるのではないだろうか.
 
 
-[^1]: McCann, B., Keskar, N. S., Xiong, C., and Socher, R. The natural
-language decathlon: Multitask learning as question answering.
-arXiv preprint arXiv:1806.08730, 2018.
+[^1]: McCann, B., Keskar, N. S., Xiong, C., and Socher, R. The natural language decathlon: Multitask learning as question answering. arXiv preprint arXiv:1806.08730, 2018.
 
 ## モデルアーキテクチャ
 
