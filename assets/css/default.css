@@ -1,6 +1,7 @@
 body {
   font-size: medium;
   color: #555;
+  margin: 5em;
 }
 
 a {
@@ -8,6 +9,7 @@ a {
 }
 
 h1, h2 {
+  padding-left: 1em;
   font-family: 'Noto Serif', serif;
 }
 
