@@ -1,14 +1,14 @@
 body {
   font-size: medium;
   color: #555;
-  margin: 5em;
+  margin: 1em 5em 1em 5em;
 }
 
 a {
   color: #555;
 }
 
-h1, h2 {
+h1, h2, h3 {
   padding-left: 1em;
   font-family: 'Noto Serif', serif;
 }
