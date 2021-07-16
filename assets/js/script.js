@@ -29,3 +29,13 @@ const getQiita = (callback, offset, limit) => {
     })).sort((a, b) => a.date < b.date))
   }, 'qiita', offset, limit);
 }
+
+const getQiita = (callback, offset, limit) => {
+  getData((data) => {
+    callback(data.map((entry) => ({
+      title: entry['Title'],
+      date: moment(entry['lastBuildDate']).format('YYYY/MM/DD'),
+      url: entry['URL']
+    })).sort((a, b) => a.date < b.date))
+  }, 'zenn', offset, limit);
+}
