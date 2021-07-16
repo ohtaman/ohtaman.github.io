@@ -28,13 +28,13 @@
         });
       })
     })
-    // getZenn((data) => {
-    //   $('<ul>').insertAfter('#zenn').append(() => {
-    //     return data.map((entry) => {
-    //       return `<li><a href="${entry.url}">${entry.title}</a><span>${entry.date}</span></li>`
-    //     });
-    //   })
-    // })
+    getZenn((data) => {
+      $('<ul>').insertAfter('#zenn').append(() => {
+        return data.map((entry) => {
+          return `<li><a href="${entry.url}">${entry.title}</a><span>${entry.date}</span></li>`
+        });
+      })
+    })
   })
 </script>
 </html>

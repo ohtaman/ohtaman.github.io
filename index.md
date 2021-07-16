@@ -79,6 +79,9 @@ author: ohtaman
 ## Events
 {: #events .events .contents}
 
-## Articles
+## Articles (Zenn)
+{: #zenn .zenn .contents}
+
+## Articles (Qiita)
 {: #qiita .qiita .contents}
 
