@@ -30,7 +30,7 @@ const getQiita = (callback, offset, limit) => {
   }, 'qiita', offset, limit);
 }
 
-const getQiita = (callback, offset, limit) => {
+const getZenn = (callback, offset, limit) => {
   getData((data) => {
     callback(data.map((entry) => ({
       title: entry['Title'],
