@@ -1,6 +1,6 @@
 const getData = (callback, type, offset, limit) => {
   $.get(
-    'https://script.google.com/macros/s/AKfycbwp3Wi6HnmN_hsMo8mUN6iXo5o5LHoGbqkCkm4JlpV8iaFqMzws/exec',
+    'https://script.google.com/macros/s/AKfycbwCeElmz0YML7DDc2snjXWKpYNHcBuAxJkL2NKnUzguySK4I5lvuvSfLNZb-idGjeCHjQ/exec',
     {
       type: type,
       offset: offset,
