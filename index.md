@@ -22,8 +22,11 @@ author: ohtaman
 - [Twitter](https://twitter.com/ohtaman)
 {: .social-accounts .contents}
 
-## [Talks](talks.html)
+## Talks
 
+- [Google OR-Toolsを使って数理最適化に触れてみよう](https://docs.google.com/presentation/d/e/2PACX-1vS5M3EE_knNaMVaPxVIih0ltfI3Y7b1Ta4s7OnAfy44tG0ZiWBsL3re7HH3_t8kTFRkKjaYOrGJI7gr/pub?start=false&loop=false&delayms=3000)
+  - [GDG DevFest 2020](https://gdg-tokyo.connpass.com/event/190079/)
+  - 2020/10/17
 - [TensorFlowの使い方](https://docs.google.com/presentation/d/e/2PACX-1vT1LHPLi1j09lKfVkaCNra-x_1zsf50H1mARpiBvurN7caEB-07f2n6k4fWbqGMVA0P-8izVYTUnWv_/pub?start=false&loop=false&delayms=3000)
   - [GDG DevFest Tokyo 2019](https://gdg-tokyo.connpass.com/event/137666/)
   - 2019/12/14
