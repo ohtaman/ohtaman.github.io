@@ -1,28 +1,9 @@
 ---
-layout: index
-title: Mitsuhisa Ohta
 author: ohtaman
+title: Talks
+description: List of given talks.
 ---
 
-# Mitsuhisa Ohta
-
-## Who am I?
-
-![face](assets/img/logo.jpg){: .face}
-
-- Chief Data Technology Officer @ [BrainPad Inc.](https://www.brainpad.co.jp/)
-- Organizer of [TensorFlow User Group Tokyo.](https://tfug.jp)
-- [Google Developers Expert (Machine Learning).](https://developers.google.com/experts/people/mitsuhisa-ota)
-- A member of the committee of [Japan DeepLearning Association.](https://www.jdla.org/)
-
-## Social Accounts
-
-- [Facebook](https://www.facebook.com/ohtaman)
-- [GitHub](https://github.com/ohtaman)
-- [Twitter](https://twitter.com/ohtaman)
-{: .social-accounts .contents}
-
-## Talks
 
 - [Google OR-Toolsを使って数理最適化に触れてみよう](https://docs.google.com/presentation/d/e/2PACX-1vS5M3EE_knNaMVaPxVIih0ltfI3Y7b1Ta4s7OnAfy44tG0ZiWBsL3re7HH3_t8kTFRkKjaYOrGJI7gr/pub?start=false&loop=false&delayms=3000)
   - [GDG DevFest 2020](https://gdg-tokyo.connpass.com/event/190079/)
@@ -66,25 +47,3 @@ author: ohtaman
 - [ReCap of TensorFlow Dev Summit 2018](https://docs.google.com/presentation/d/e/2PACX-1vSMGl0DXxtS6wtykuNq-A6P_Ew6NLrY6xiK4YCoFdiMJDzqEMFplkrLaaMT-VIh-ulGE_Oc9wY-ahlm/pub?start=false&loop=false&delayms=3000)
   - [Recap of TensorFlow Dev Summit 2018](https://gdgkyoto.connpass.com/event/83884/) @ Kyoto
   - 2018/04/14
-{: .talks .contents}
-
-## Publications
-
-- [ディープラーニング活用の教科書](https://www.amazon.co.jp/dp/4296100548)(Interviewed)
-- [失敗しない データ分析・AIのビジネス導入: プロジェクト進行から組織づくりまで](https://www.amazon.co.jp/dp/4627854110)
-- [現場で使える! TensorFlow開発入門 Kerasによる深層学習モデル構築手法](https://www.amazon.co.jp/dp/4798154121)
-- [TensorFlow活用ガイド 機械学習アプリケーション開発入門](https://www.amazon.co.jp/dp/4774195049)
-- [実践 Deep Learning ―PythonとTensorFlowで学ぶ次世代の機械学習アルゴリズム](https://www.amazon.co.jp/dp/4873118328)(Supervisor of translation)
-- [コマンドラインではじめるデータサイエンス ―分析プロセスを自在に進めるテクニック](https://www.amazon.co.jp/dp/4873117410)(Supervisor of translation)
-- [実践 機械学習：レコメンデーションにおけるイノベーション](https://community.mapr.jp/pdf-practical-machine-learning.html)(Supervisor of translation)
-{: .publication .contents}
-
-## Events
-{: #events .events .contents}
-
-## Articles (Zenn)
-{: #zenn .zenn .contents}
-
-## Articles (Qiita)
-{: #qiita .qiita .contents}
-
