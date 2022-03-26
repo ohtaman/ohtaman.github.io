@@ -1,0 +1,86 @@
+baseURL = 'https://ohtaman.github.io/'
+languageCode = 'ja-JP'
+title = 'ohtaman'
+
+[module]
+  [[module.imports]]
+    path = "github.com/lxndrblz/anatole"
+    disable = false
+
+[markup.goldmark.renderer]
+unsafe = true
+
+
+[params]
+title = "ohtaman"
+author = "ohtaman"
+description = "Be a kid again."
+doNotLoadAnimations = true
+profilePicture = "imgs/profile.jpg"
+customJs = ["https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.js", "https://code.jquery.com/jquery-3.2.1.min.js", "js/script.js"]
+
+[[params.socialIcons]]
+icon = "fab fa-google"
+title = "Google Developers Profile"
+url = "https://g.dev/ohtaman"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/ohtaman"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/ohtaman"
+
+[[params.socialIcons]]
+icon = "fab fa-facebook"
+title = "Facebook"
+url = "https://facebook.com/ohtaman"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/ohtaman/"
+
+
+[menu]
+
+[[menu.main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/"
+
+[[menu.main]]
+name = "Events"
+weight = 200
+identifier = "events"
+url = "/events"
+
+[[menu.main]]
+name = "Talks"
+weight = 300
+identifier = "talks"
+url = "/talks"
+
+[[menu.main]]
+name = "Articles"
+weight = 400
+identifier = "articles"
+url = "/articles"
+
+
+[[menu.main]]
+name = "Publications"
+weight = 500
+identifier = "publications"
+url = "/publications"
+
+[[menu.main]]
+name = "Blog"
+weight = 600
+identifier = "blog"
+url = "https://0-8.hatenadiary.jp/"
+
