@@ -10,7 +10,7 @@ title: Talks
 - [TensorFlowの使い方](https://docs.google.com/presentation/d/e/2PACX-1vT1LHPLi1j09lKfVkaCNra-x_1zsf50H1mARpiBvurN7caEB-07f2n6k4fWbqGMVA0P-8izVYTUnWv_/pub?start=false&loop=false&delayms=3000)
   - [GDG DevFest Tokyo 2019](https://gdg-tokyo.connpass.com/event/137666/)
   - 2019/12/14
-- [TensorFlow Ecosystem & Enterprise](https://ohtaman.github.io/slides/tfwx_tokyo_2019/20191114.html)
+- [TensorFlow Ecosystem & Enterprise](/slides/tfwx_tokyo_2019/20191114.html)
   - [TensorFlow World Extended Tokyo 2019](https://tfug-tokyo.connpass.com/event/152615/)
   - 2019/11/14
 - [TF Probability, TF-Agents and TFX](https://docs.google.com/presentation/d/e/2PACX-1vRvw0Mq2-AIfPzcudBjwG1GDJ26P2MiJV-Jzfe-9xsIolBhGy-rNbcNahBV7cpEgEU-DL3wPbd4rmiH/pub?start=false&loop=false&delayms=3000)
