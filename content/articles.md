@@ -2,6 +2,8 @@
 title: Articles
 ---
 
+執筆したウェブコンテンツ（Zenn/Qiitaより自動抽出）
+
 <h2>Zenn</h2>
 
 <div id="zenn">

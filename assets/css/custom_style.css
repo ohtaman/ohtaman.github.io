@@ -1,0 +1,20 @@
+
+.post * {
+  font-family: "ヒラギノ角ゴ Pro W3", "Meiryo", "sans-serif";
+  text-align: justify;
+  color: #444;
+}
+
+.post ul > li > a {
+  padding-right: 1.0rem;
+}
+
+.talks > li > ul {
+  display: inline-block;
+  list-style: none;
+  padding-left: 0.0rem;
+}
+
+.talks > li > ul > li:first-of-type {
+  display: none;
+}

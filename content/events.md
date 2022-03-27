@@ -2,6 +2,8 @@
 title: events
 ---
 
+主催したイベント（connpassより自動抽出）
+
 <div id="events">
 </div>
 

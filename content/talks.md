@@ -2,6 +2,8 @@
 title: Talks
 ---
 
+過去のイベント登壇で作成した資料
+
 - [Google OR-Toolsを使って数理最適化に触れてみよう](https://docs.google.com/presentation/d/e/2PACX-1vS5M3EE_knNaMVaPxVIih0ltfI3Y7b1Ta4s7OnAfy44tG0ZiWBsL3re7HH3_t8kTFRkKjaYOrGJI7gr/pub?start=false&loop=false&delayms=3000)
   - [GDG DevFest 2020](https://gdg-tokyo.connpass.com/event/190079/)
   - 2020/10/17
@@ -44,4 +46,4 @@ title: Talks
 - [ReCap of TensorFlow Dev Summit 2018](https://docs.google.com/presentation/d/e/2PACX-1vSMGl0DXxtS6wtykuNq-A6P_Ew6NLrY6xiK4YCoFdiMJDzqEMFplkrLaaMT-VIh-ulGE_Oc9wY-ahlm/pub?start=false&loop=false&delayms=3000)
   - [Recap of TensorFlow Dev Summit 2018](https://gdgkyoto.connpass.com/event/83884/) @ Kyoto
   - 2018/04/14
-{: .talks .contents}
+{ .talks }

@@ -14,10 +14,15 @@ unsafe = true
 [params]
 title = "ohtaman"
 author = "ohtaman"
-description = "Be a kid again."
+description = "Machine Learning Engineer"
 doNotLoadAnimations = true
 profilePicture = "imgs/profile.jpg"
 customJs = ["https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.js", "https://code.jquery.com/jquery-3.2.1.min.js", "js/script.js"]
+customCss = ["css/custom_style.css"]
+mainSections = ["talks"]
+
+[markup.goldmark.parser.attribute]
+  block = true
 
 [[params.socialIcons]]
 icon = "fab fa-google"
@@ -63,7 +68,7 @@ url = "/events"
 name = "Talks"
 weight = 300
 identifier = "talks"
-url = "/talks"
+url = "/talks/"
 
 [[menu.main]]
 name = "Articles"
