@@ -4,6 +4,8 @@ title: Publications
 
 執筆・監訳等で関わった書籍
 
+- [LLMと数理最適化の実践ガイド](https://www.amazon.co.jp/dp/4296100549)
+- [Streamlitによるデータアプリケーション開発入門](https://www.amazon.co.jp/dp/4627854111)
 - [ディープラーニング活用の教科書](https://www.amazon.co.jp/dp/4296100548)（インタビュー）
 - [失敗しない データ分析・AIのビジネス導入: プロジェクト進行から組織づくりまで](https://www.amazon.co.jp/dp/4627854110)
 - [現場で使える! TensorFlow開発入門 Kerasによる深層学習モデル構築手法](https://www.amazon.co.jp/dp/4798154121)
