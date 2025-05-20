@@ -4,12 +4,6 @@ title: Talks
 
 過去のイベント登壇で作成した資料
 
-- [Streamlitで簡単デスクトップアプリ作成](https://github.com/ohtaman/streamlit-desktop-app)
-  - [Streamlit Meetup Japan](https://streamlit.io/community)
-  - 2025/03/14
-- [LLMと数理最適化を組み合わせる](https://zenn.dev/ohtaman/articles/llm-and-optimization)
-  - [Ubie Tech Blog](https://tech.ubie.life/)
-  - 2025/01/15
 - [Google OR-Toolsを使って数理最適化に触れてみよう](https://docs.google.com/presentation/d/e/2PACX-1vS5M3EE_knNaMVaPxVIih0ltfI3Y7b1Ta4s7OnAfy44tG0ZiWBsL3re7HH3_t8kTFRkKjaYOrGJI7gr/pub?start=false&loop=false&delayms=3000)
   - [GDG DevFest 2020](https://gdg-tokyo.connpass.com/event/190079/)
   - 2020/10/17
