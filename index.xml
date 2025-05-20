@@ -114,18 +114,6 @@ return `&lt;li>&lt;a href="${entry.url}">${entry.title}&lt;/a>&lt;span>${entry.d
 &lt;li>&lt;a href="https://community.mapr.jp/pdf-practical-machine-learning.html">実践 機械学習：レコメンデーションにおけるイノベーション&lt;/a>（監訳）&lt;/li>
 &lt;/ul></description></item><item><title>Talks</title><link>https://ohtaman.github.io/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ohtaman.github.io/talks/</guid><description>&lt;p>過去のイベント登壇で作成した資料&lt;/p>
 &lt;ul class="talks">
-&lt;li>&lt;a href="https://github.com/ohtaman/streamlit-desktop-app">Streamlitで簡単デスクトップアプリ作成&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="https://streamlit.io/community">Streamlit Meetup Japan&lt;/a>&lt;/li>
-&lt;li>2025/03/14&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="https://zenn.dev/ohtaman/articles/llm-and-optimization">LLMと数理最適化を組み合わせる&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="https://tech.ubie.life/">Ubie Tech Blog&lt;/a>&lt;/li>
-&lt;li>2025/01/15&lt;/li>
-&lt;/ul>
-&lt;/li>
 &lt;li>&lt;a href="https://docs.google.com/presentation/d/e/2PACX-1vS5M3EE_knNaMVaPxVIih0ltfI3Y7b1Ta4s7OnAfy44tG0ZiWBsL3re7HH3_t8kTFRkKjaYOrGJI7gr/pub?start=false&amp;amp;loop=false&amp;amp;delayms=3000">Google OR-Toolsを使って数理最適化に触れてみよう&lt;/a>
 &lt;ul>
 &lt;li>&lt;a href="https://gdg-tokyo.connpass.com/event/190079/">GDG DevFest 2020&lt;/a>&lt;/li>
