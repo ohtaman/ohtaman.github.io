@@ -4,6 +4,7 @@ title: Publications
 
 執筆・監訳等で関わった書籍
 
+- [事例でわかるMLOps 機械学習の成果をスケールさせる処方箋](https://www.amazon.co.jp/事例でわかるMLOps-機械学習の成果をスケールさせる処方箋-KS情報科学専門書-杉山-阿聖/dp/4065369568)
 - [LLMと数理最適化の実践ガイド](https://www.amazon.co.jp/dp/4296100549)
 - [Streamlitによるデータアプリケーション開発入門](https://www.amazon.co.jp/dp/4627854111)
 - [ディープラーニング活用の教科書](https://www.amazon.co.jp/dp/4296100548)（インタビュー）
