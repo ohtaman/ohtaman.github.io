@@ -35,9 +35,9 @@ title = "GitHub"
 url = "https://github.com/ohtaman"
 
 [[params.socialIcons]]
-icon = "fab fa-twitter"
-title = "Twitter"
-url = "https://twitter.com/ohtaman"
+icon = "fab fa-x"
+title = "X"
+url = "https://x.com/ohtaman"
 
 [[params.socialIcons]]
 icon = "fab fa-facebook"
@@ -48,6 +48,12 @@ url = "https://facebook.com/ohtaman"
 icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/ohtaman/"
+
+[[params.socialIcons]]
+icon = "fab fa-eight"
+title = "Eight"
+url = "https://8card.net/virtual_cards/RR6GxWmD0qe6-qp39rxPHw"
+
 
 
 [menu]
