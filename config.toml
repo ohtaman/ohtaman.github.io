@@ -53,13 +53,6 @@ icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/ohtaman/"
 
-[[params.socialIcons]]
-icon = "fab fa-eight"
-title = "Eight"
-url = "https://8card.net/virtual_cards/RR6GxWmD0qe6-qp39rxPHw"
-
-
-
 [menu]
 
 [[menu.main]]
