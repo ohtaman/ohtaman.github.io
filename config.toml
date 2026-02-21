@@ -15,8 +15,8 @@ unsafe = true
 title = "ohtaman"
 description = "Machine Learning Engineer"
 
-[Author] # Global Author object
-  email = "your.email@example.com"
+[params.Author] # Global Author object
+  email = "ohtamans@gmail.com"
   name = "ohtaman"
 
 doNotLoadAnimations = true
