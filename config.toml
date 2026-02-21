@@ -13,8 +13,12 @@ unsafe = true
 
 [params]
 title = "ohtaman"
-author = "ohtaman"
 description = "Machine Learning Engineer"
+
+[Author] # Global Author object
+  email = "your.email@example.com"
+  name = "ohtaman"
+
 doNotLoadAnimations = true
 profilePicture = "imgs/profile.jpg"
 customJs = ["https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.js", "https://code.jquery.com/jquery-3.2.1.min.js", "js/script.js"]
