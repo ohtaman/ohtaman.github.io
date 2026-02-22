@@ -5,13 +5,7 @@
 <footer class="footer">
     <div class="footer__inner">
         <div class="footer__content">
-            <span>&copy; {{ now.Format "2006" }}</span>
-            {{ if $ctx.Site.Params.author }}
-                <span><a href="{{ $ctx.Site.BaseURL }}">{{ $ctx.Site.Params.author }}</a></span>
-            {{ else }}
-                <span><a href="{{ $ctx.Site.BaseURL }}">{{ $ctx.Site.Title }}</a></span>
-            {{ end }}
-            <span>{{- with $ctx.Site.Params.license -}} <a href="{{ . }}">{{ i18n "license" }}</a> {{- end -}}</span>
+            <span>&copy; {{ now.Format "2006" }} {{ $ctx.Site.Params.author.name }}</span>
         </div>
     </div>
 </footer>
