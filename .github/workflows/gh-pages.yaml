@@ -9,18 +9,18 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-22.04
+    container:
+      image: hugomods/hugo:0.156
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - uses: actions/checkout@v4
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.156.0'
-          extended: true
+          submodules: recursive
+          fetch-depth: 0
 
       - name: Build
-        run: hugo --minify
+        run: hugo mod get && hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
