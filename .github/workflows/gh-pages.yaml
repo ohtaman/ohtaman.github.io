@@ -13,14 +13,16 @@ jobs:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - uses: actions/checkout@v4
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.23'
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.156.0'
           extended: true
-
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
 
       - name: Build
         run: hugo mod get && hugo --minify
