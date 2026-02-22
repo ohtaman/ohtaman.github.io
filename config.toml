@@ -13,6 +13,10 @@ unsafe = true
 [taxonomies]
   author = "authors"
 
+[caches]
+  [caches.images]
+    dir = ":cacheDir/images"
+
 
 
 [params]
