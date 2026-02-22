@@ -10,7 +10,7 @@ jobs:
   deploy:
     runs-on: ubuntu-22.04
     container:
-      image: hugomods/hugo:0.156
+      image: hugomods/hugo:debian-0.156.0
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
