@@ -603,18 +603,17 @@ const pipe = await pipeline('text-generation', 'onnx-community/gemma-4-E2B-it-ON
 <p class="lead-msg">同一モデル（Gemma 4 E2B 4-bit）のブラウザ上での動作比較</p>
 
 <div class="split compact">
-<div class="left" style="flex: 0.6; text-align: center;">
+<div class="left" style="flex: 1.05;">
 
-<div class="demo-qr-card">
-  <img src="./img/qr_ai_in_browser_demo.png" alt="デモURLのQRコード" width="100" height="100">
-  <p style="margin-top: 8px; font-size: 0.72em; margin-bottom: 0; word-break: break-all;">
-    👉 <strong>デモ公開中</strong><br>
-    <a href="https://ohtaman.github.io/ai-in-browser-demo/06_comparison_arena/index.html">ohtaman.github.io/ai-in-browser-demo/<br>06_comparison_arena/index.html</a>
-  </p>
-</div>
+- **同一プロンプトによる順次ベンチマーク**:
+  - 個別リソースでストリーミング速度と TTFT を直接対決
+- **見どころ**:
+  - ⚡️ **トークン生成速度 (tok/s)** と **初回応答 (TTFT)**
+  - 💻 **1,000+ トークンのコード生成も安定完走**
+  - 🌐 **DevTools Network: 通信 0 B（完全ローカル実行）**
 
 </div>
-<div class="right" style="flex: 1.4;">
+<div class="right" style="flex: 0.95;">
 
 <div class="photo-box contain" style="height: 310px;">
   <img src="./img/arena_benchmark_result.png" alt="実測ベンチマーク画面">
@@ -680,6 +679,4 @@ _class: lead
 
 # ありがとうございました！
 
-- **デモ**: [ohtaman.github.io/ai-in-browser-demo/06_comparison_arena/index.html](https://ohtaman.github.io/ai-in-browser-demo/06_comparison_arena/index.html)
-- **デモコード**: [github.com/ohtaman/ai-in-browser-demo](https://github.com/ohtaman/ai-in-browser-demo)
 - **スライド資料**: [ohtaman.github.io/slides/gemma_meetup_2026/slides.pdf](https://ohtaman.github.io/slides/gemma_meetup_2026/slides.pdf)

@@ -8488,16 +8488,23 @@ a:hover {
 <h2 id="8-%E3%83%87%E3%83%A2transformersjs-%E3%81%A8-litert-lm-%E3%81%AE%E5%8B%95%E4%BD%9C%E6%AF%94%E8%BC%83">8. 【デモ】Transformers.js と LiteRT-LM の動作比較</h2>
 <p class="lead-msg">同一モデル（Gemma 4 E2B 4-bit）のブラウザ上での動作比較</p>
 <div class="split compact">
-<div class="left" style="flex: 0.6; text-align: center;">
-<div class="demo-qr-card">
-  <img src="./img/qr_ai_in_browser_demo.png" alt="デモURLのQRコード" width="100" height="100" />
-  <p style="margin-top: 8px; font-size: 0.72em; margin-bottom: 0; word-break: break-all;">
-    👉 <strong>デモ公開中</strong><br />
-    <a href="https://ohtaman.github.io/ai-in-browser-demo/06_comparison_arena/index.html">ohtaman.github.io/ai-in-browser-demo/<br />06_comparison_arena/index.html</a>
-  </p>
+<div class="left" style="flex: 1.05;">
+<ul>
+<li><strong>同一プロンプトによる順次ベンチマーク</strong>:
+<ul>
+<li>個別リソースでストリーミング速度と TTFT を直接対決</li>
+</ul>
+</li>
+<li><strong>見どころ</strong>:
+<ul>
+<li><img class="emoji" draggable="false" alt="⚡" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/26a1.svg" data-marp-twemoji=""/>️ <strong>トークン生成速度 (tok/s)</strong> と <strong>初回応答 (TTFT)</strong></li>
+<li><img class="emoji" draggable="false" alt="💻" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f4bb.svg" data-marp-twemoji=""/> <strong>1,000+ トークンのコード生成も安定完走</strong></li>
+<li><img class="emoji" draggable="false" alt="🌐" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.3/assets/svg/1f310.svg" data-marp-twemoji=""/> <strong>DevTools Network: 通信 0 B（完全ローカル実行）</strong></li>
+</ul>
+</li>
+</ul>
 </div>
-</div>
-<div class="right" style="flex: 1.4;">
+<div class="right" style="flex: 0.95;">
 <div class="photo-box contain" style="height: 310px;">
   <img src="./img/arena_benchmark_result.png" alt="実測ベンチマーク画面" />
   <span class="caption">実測結果: フィボナッチ関数生成（1,155 vs 1,342 tok）</span>
@@ -11328,8 +11335,6 @@ a:hover {
 ;color:#202124;background-color:#ffffff;background-image:none;" data-marpit-pagination-total="16">
 <h1 id="%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F">ありがとうございました！</h1>
 <ul>
-<li><strong>デモ</strong>: <a href="https://ohtaman.github.io/ai-in-browser-demo/06_comparison_arena/index.html">ohtaman.github.io/ai-in-browser-demo/06_comparison_arena/index.html</a></li>
-<li><strong>デモコード</strong>: <a href="https://github.com/ohtaman/ai-in-browser-demo">github.com/ohtaman/ai-in-browser-demo</a></li>
 <li><strong>スライド資料</strong>: <a href="https://ohtaman.github.io/slides/gemma_meetup_2026/slides.pdf">ohtaman.github.io/slides/gemma_meetup_2026/slides.pdf</a></li>
 </ul>
 </section>
