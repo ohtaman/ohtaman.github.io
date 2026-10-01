@@ -23,7 +23,8 @@ jobs:
         run: sudo snap install dart-sass
 
       - name: Build
-        run: hugo mod get && hugo --minify
+        # Pin Anatole to v1.8.0; v1.18+ requires Dart Sass which is not installed on the runner
+        run: hugo mod get github.com/lxndrblz/anatole@v1.8.0 && hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
