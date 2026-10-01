@@ -321,18 +321,49 @@ style: |
     object-fit: contain;
     display: block;
   }
+  .title-qr-box {
+    position: absolute;
+    bottom: 40px;
+    right: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff;
+    border: 1px solid #dadce0;
+    border-radius: 12px;
+    padding: 8px 12px;
+    box-shadow: 0 2px 6px rgba(60,64,67,0.08);
+  }
+  .title-qr-box img {
+    width: 95px !important;
+    height: 95px !important;
+    object-fit: contain;
+    display: block;
+  }
+  .title-qr-box .qr-label {
+    font-size: 0.42em;
+    color: #5f6368;
+    margin-top: 4px;
+    font-weight: 600;
+    line-height: 1.2;
+  }
 ---
 
 <!-- 
 _class: lead
 -->
 
-# Transformer.js と LiteRT をつかって<br>Gemma をブラウザで動かそう
+# Transformers.js と LiteRT をつかって<br>Gemma をブラウザで動かそう
 
 ### Gemma Meetup 2026 (GDG Tokyo)
 
 太田 満久（おおたまん）  
 [@ohtaman](https://x.com/ohtaman) / Ubie Lab 所長, GDE (AI / Cloud AI)
+
+<div class="title-qr-box">
+  <img src="./img/qr_slides_pdf.png" alt="スライド資料 QR" width="95" height="95">
+  <div class="qr-label">スライド資料</div>
+</div>
 
 ---
 
@@ -651,4 +682,4 @@ _class: lead
 
 - **デモ**: [ohtaman.github.io/ai-in-browser-demo/06_comparison_arena/index.html](https://ohtaman.github.io/ai-in-browser-demo/06_comparison_arena/index.html)
 - **デモコード**: [github.com/ohtaman/ai-in-browser-demo](https://github.com/ohtaman/ai-in-browser-demo)
-- **スライド資料**: [github.com/ohtaman/gemma-meetup](https://github.com/ohtaman/gemma-meetup)
+- **スライド資料**: [ohtaman.github.io/slides/gemma_meetup_2026/slides.pdf](https://ohtaman.github.io/slides/gemma_meetup_2026/slides.pdf)
