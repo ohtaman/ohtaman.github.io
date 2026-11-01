@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /washi/
+Allow: /web-nfc/
+
+Sitemap: https://ohtaman.github.io/sitemap.xml
+Sitemap: https://ohtaman.github.io/washi/sitemap.xml
+Sitemap: https://ohtaman.github.io/web-nfc/sitemap.xml
