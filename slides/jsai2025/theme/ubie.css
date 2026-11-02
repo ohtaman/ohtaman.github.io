@@ -1,0 +1,111 @@
+/* @theme ubie */
+
+@import 'default';
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP:100,300,400,500,700,900&display=swap');
+
+section {
+  height: 720px;
+  width: 1280px;
+  padding-top: 0px;
+  padding-left: 64px;
+  color: #3d4454;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 28px;
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-image: url("theme/slide_template.svg");
+  background-size: 1280px;
+}
+
+section:not(.cover) {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  padding-top: 32px;
+  padding-left: 64px;
+  padding-right: 64px;
+}
+
+section h2 {
+  padding-top: 24px;
+  padding-left: 24px;
+  border-bottom: solid 2px #304cad;
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 32px;
+}
+
+section a {
+  color: #0066cc;
+}
+
+section img {
+  display: block;
+  margin: 0 auto;
+}
+
+section table {
+  align-self: center;
+}
+section table td {
+  border: 1px solid #cfd7f3;
+}
+
+section table th {
+  background-color: #5d77d5;
+  border: 1px solid #cfd7f3;
+  color: white;
+}
+
+section table tr:nth-child(even) {
+  background-color: #f0f2fc;
+}
+
+section .left {
+  position: absolute;
+  width: calc(50% - 64px - 16px);
+}
+
+section .right {
+  position: absolute;
+  left: calc(50% + 16px);
+  width: calc(50% - 64px - 16px);
+}
+
+section .middle {
+  top: 50%;
+  transform: translate(0%, -50%);
+}
+
+/* 表紙ページ */
+section.cover {
+  background-image: url("theme/cover_template.svg");
+  background-position: center center;
+  background-size: cover;
+}
+
+section.cover header {
+  display: none;
+}
+
+section.cover footer {
+  display: none;
+}
+
+section.subsection {
+  padding-top: 0px;
+  justify-content: center;
+  background-color: #fafafa;
+}
+
+section.subsection h1 {
+  position: static;
+}
+
+section.subsection:after {
+  display: none;
+}
+
+section.subsection footer {
+  display: none;
+}
