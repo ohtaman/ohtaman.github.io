@@ -4,6 +4,51 @@ title: Talks
 
 過去のイベント登壇で作成した資料
 
+- [生成AIを「なんとなく改善」するのをやめる](https://docs.google.com/presentation/d/1Ecy3ww64tfrjm2uNSfNTLhuQH1LXBVBgVzo3UxXoPrw/edit)
+  - DevFest Kansai 2026
+  - 2026/10/18
+- [今一度、AI の置き場所を考えよう 〜 商用APIとローカルモデル 〜](https://docs.google.com/presentation/d/1UlJB9HY6CjztT9BOQq_oT-BEgDJCeLw7XlLTlV7GoMY/edit)
+  - Google I/O Extended Osaka 2026
+  - 2026/07/18
+- [Gemini Updates](https://docs.google.com/presentation/d/1W0GDPNiklYtIiInHvBfwoz49PNn1GN5d132AwrpwMVA/edit)
+  - Google I/O Extended 2026 Tokyo
+  - 2026/07/17
+- [Transformer.js と LiteRT をつかって Gemma をブラウザで動かそう](/slides/gemma_meetup_2026/slides.html)
+  - Gemma Meetup 2026 (GDG Tokyo)
+  - 2026/03/21
+- [AIエージェントの頭の中 仕組みを味方にして“考えるAI”を動かす](https://docs.google.com/presentation/d/1WSbwjahRl9F6dHjb-vQxtX9ka1a4_EWJ7qePCcBtzbw/edit)
+  - GDG DevFest Tokyo 2025
+  - 2025/11/23
+- [数理最適化MCPをつくったよ！](https://docs.google.com/presentation/d/1crefZZoT7l5r1bIC8xZYQ1muvdHAiUC07Wo9--JsXlQ/edit)
+  - GDG DevFest Tokyo 2025
+  - 2025/11/22
+- [生成AIとAIエージェントの現在地](https://docs.google.com/presentation/d/1TUVt2gh3jCeAEt1_1JuqCHL1EgAFs2CoW-YwDbfuk7Y/edit)
+  - Google I/O Extended 2025 in Osaka
+  - 2025/07/27
+- [Gemini の音声出力モデルを使って遊ぼう](https://docs.google.com/presentation/d/14dawexoVIJa-MY8xS7VEonnn0UXrXH6zsrGZgoO4ieY/edit)
+  - Google I/O Extended 2025
+  - 2025/07/05
+- [大規模言語モデルを用いた自然言語入力による看護師勤務表生成手法の検討](/slides/jsai2025/llm_scheduling.html)
+  - 人工知能学会全国大会（JSAI2025）
+  - 2025/05/27
+- [Deep Research のクローンを作りながら学ぶ Agentic AI のベストプラクティス（？）](https://docs.google.com/presentation/d/1WYInOj1sYW9iiwGoeBdv6yfa39RHv_-Eai4GtxdBZaI/edit)
+  - GDG Nagoya @ Build With AI Meetup & ハンズオン
+  - 2025/04/23
+- [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](/slides/paper_reading/20250128.html)
+  - 生成AI論文をわいわい読む会 #2 x Build with AI もくもく会 - GDG Tokyo
+  - 2025/01/28
+- [Vertex AI 2023年の進化を振り返ろう](https://docs.google.com/presentation/d/1TF_sR0bdRd1lN4Uo4H6wwW6uBNqVY_oiWZsG5q1h6rE/edit)
+  - GDG DevFest Tokyo 2023
+  - 2023/12/08
+- [TensorFlow ecosystem 〜TensorFlowの全体像を理解しよう〜](https://docs.google.com/presentation/d/188TSJlwhfNGhruR6-9NQDlelAUaUyQvXQlBSnBVwCB4/edit)
+  - GDSC Tokyo Metropolitan University
+  - 2022/01/06
+- [はじめてのHPCによる深層学習 〜スーパーコンピューターに触れてみる〜](/slides/ml_15min/20211127.html)
+  - 第61回 Machine Learning 15minutes! V-expo
+  - 2021/11/27
+- [座談会 & QA](https://docs.google.com/presentation/d/1Ar9PS7H8xb1jr7O2K_x0aWBMm5EF1ctKJXiJvqD478s/edit)
+  - Google I/O Extended 2021
+  - 2021/05/26
 - [Google OR-Toolsを使って数理最適化に触れてみよう](https://docs.google.com/presentation/d/e/2PACX-1vS5M3EE_knNaMVaPxVIih0ltfI3Y7b1Ta4s7OnAfy44tG0ZiWBsL3re7HH3_t8kTFRkKjaYOrGJI7gr/pub?start=false&loop=false&delayms=3000)
   - [GDG DevFest 2020](https://gdg-tokyo.connpass.com/event/190079/)
   - 2020/10/17
