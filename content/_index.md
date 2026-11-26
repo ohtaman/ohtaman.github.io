@@ -8,3 +8,7 @@ title: Who Am I?
 - [Google Developers Expert (AI / Cloud)](https://developers.google.com/experts/people/mitsuhisa-ota)
 - Organizer of [Casual Optimization](https://tfug.jp)
 - A committee member of [Japan DeepLearning Association](https://www.jdla.org/)
+
+## Projects
+
+- [WaSHI — Mathematical Optimization Modeler in TypeScript](https://washi.ohtaman.dev/)
