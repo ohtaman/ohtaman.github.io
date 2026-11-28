@@ -20,10 +20,13 @@ jobs:
           extended: true
 
       - name: Install Dart Sass
+        env:
+          DART_SASS_VERSION: "1.108.2"
         run: |
-          SASS_VERSION=$(curl -fsSL https://api.github.com/repos/sass/dart-sass/releases/latest | grep -oP '"tag_name": "\K[^"]+')
-          curl -fsSL "https://github.com/sass/dart-sass/releases/download/${SASS_VERSION}/dart-sass-${SASS_VERSION}-linux-x64.tar.gz" | tar -xz -C /opt
-          echo "/opt/dart-sass" >> $GITHUB_PATH
+          set -euo pipefail
+          curl -fsSL "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz" | tar -xz -C /opt
+          echo "/opt/dart-sass" >> "$GITHUB_PATH"
+          /opt/dart-sass/sass --version
 
       - name: Build
         run: hugo --minify
